@@ -1,0 +1,10 @@
+{
+  "name": "aventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aek <ekkawin.v@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "day1": "node day1.js"
+  }
+}
