@@ -5,6 +5,7 @@
   "author": "Aek <ekkawin.v@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "day1": "node day1.js"
+    "day1": "node day1.js",
+    "day2": "node day2.js"
   }
 }
